@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aidooqueng.markstoehr.com/sitemap.xml
